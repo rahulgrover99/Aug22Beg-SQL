@@ -1,3 +1,7 @@
+## Practice questions
+* [Employees earning more than their manager](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+* [Product sales analysis](https://leetcode.com/problems/product-sales-analysis-i/description/)
+
 ```sql
 select * from film;
 

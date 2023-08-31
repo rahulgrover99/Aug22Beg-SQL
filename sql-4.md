@@ -1,9 +1,9 @@
-Questions to try:
-- https://leetcode.com/problems/find-customer-referee/ 
-- https://leetcode.com/problems/big-countries/ 
-- https://leetcode.com/problems/not-boring-movies/ 
-- https://leetcode.com/problems/article-views-i/ 
-- https://leetcode.com/problems/patients-with-a-condition/
+## Practice questions
+* [Find customer reference](https://leetcode.com/problems/find-customer-referee/)
+* [Big countries](https://leetcode.com/problems/big-countries/)
+* [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
+* [Article Views](https://leetcode.com/problems/article-views-i/)
+* [Patients with a condition](https://leetcode.com/problems/patients-with-a-condition/)
 
 
 ```sql
