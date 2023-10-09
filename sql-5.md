@@ -1,13 +1,13 @@
 ## Practice questions
 * [Employees earning more than their manager](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 * [Product sales analysis](https://leetcode.com/problems/product-sales-analysis-i/description/)
-* [Combine Two Tables] (https://leetcode.com/problems/combine-two-tables/)
-* [Delete Duplicate Emails] ( https://leetcode.com/problems/delete-duplicate-emails/)
-* [Rising Temperature] ( https://leetcode.com/problems/rising-temperature/)
-* [Employee Bonus] ( https://leetcode.com/problems/employee-bonus/)
-* [Replace Employee id with the unique identifier] ( https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
-* [npv queries] ( https://leetcode.com/problems/npv-queries/)
-* [employees earning more than their managers] ( https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+* [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+* [Delete Duplicate Emails]( https://leetcode.com/problems/delete-duplicate-emails/)
+* [Rising Temperature]( https://leetcode.com/problems/rising-temperature/)
+* [Employee Bonus]( https://leetcode.com/problems/employee-bonus/)
+* [Replace Employee id with the unique identifier]( https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
+* [npv queries]( https://leetcode.com/problems/npv-queries/)
+* [employees earning more than their managers]( https://leetcode.com/problems/employees-earning-more-than-their-managers/)
  
 
 ```sql
